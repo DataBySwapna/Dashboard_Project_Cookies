@@ -66,7 +66,8 @@ To create a **dynamic and interactive Excel dashboard** for visualizing **key pe
 
 ## 📷 **Preview**
 ![Dashboard Preview](https://via.placeholder.com/800x400.png)  
-*(Add a screenshot or GIF of your dashboard here)*
+*(Add a screenshot or GIF of ![image](https://github.com/user-attachments/assets/0b8e7660-d7b3-478c-84af-c521f19657be)
+your dashboard here)*
 
 ---
 
