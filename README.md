@@ -1,4 +1,4 @@
-# 📊 Dynamic Excel Dashboard for KPI Visualization
+# 📊 Dynamic Excel Dashboard for Cookie Company
 
 ## 🎯 **Goal**
 To create a **dynamic and interactive Excel dashboard** for visualizing **key performance indicators (KPIs)**, providing actionable insights, and streamlining the presentation of critical data for decision-making.
